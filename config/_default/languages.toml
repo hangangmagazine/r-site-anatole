@@ -1,13 +1,12 @@
 [en]
-title = "Andrew Brennfoerder"
+title = "HAN GANG MAGAZINE"
 weight = 1
 LanguageName = "EN"
 contentDir = "content/english"
 
 [ar]
-title = "عربي"
-description = "أنا أحمد"
-contentDir = "content/arabic" 
+title = "한강 매가진"
+description = "Test Description"
+contentDir = "content/korean" 
 weight = 2
-LanguageDirection = "rtl" 
-LanguageName = "AR"
+LanguageName = "한국어"
